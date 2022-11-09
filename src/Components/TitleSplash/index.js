@@ -5,7 +5,7 @@ import './styles.scss';
       return (
       <header>
         <div  className="container-fluid videoContainer">
-          <video autoPlay muted className="videoBG">
+          <video playsInline autoPlay muted className="videoBG">
             <source src={Video} type="video/mp4" />
           </video>
           <div className="col-12 headerContent text-center">
