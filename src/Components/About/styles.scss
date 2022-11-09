@@ -1,0 +1,60 @@
+.about {
+    padding-top: 150px;
+    padding-bottom: 100px;
+    font-family: 'Inter', sans-serif;
+    h1 {
+        color: #a81c83;
+        font-size: 40px;
+    }   
+    p {
+        font-size: 20px;
+        font-family: 'Roboto Slab', serif;
+        text-align: justify;
+    }
+    .aboutImage {
+        border: solid 2px;
+    }
+}
+
+a {
+    color: inherit;
+    &:hover {
+        color: #a81c83;
+    }
+}
+
+.welcomeTitle {
+    margin-bottom: 50px;
+}
+
+@media only screen and (max-width: 992px){
+    .about {
+        padding-top: 140px;
+        padding-bottom: 100px;
+        h1 {
+            font-size: 50px;
+        }
+        p {
+            font-size: 25px;
+        }
+     }
+     .aboutImage {
+        margin-bottom: 30px;
+     }
+}
+
+@media only screen and (max-width: 768px){
+    .about {
+        padding-top: 80px;
+        padding-bottom: 80px;
+        h1 {
+            font-size: 30px;
+        }
+        p {
+            font-size: 14px;
+        }
+     }
+     .welcomeTitle {
+        margin-bottom: 30px;
+    }
+}
