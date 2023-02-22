@@ -2,7 +2,7 @@ import './styles.scss';
 
 const Footer = () => {
     return (
-        <div className="container footer p-5">
+        <div className="container-fluid footer p-5">
             <div className="row">
                 <div className="col-lg-6 col-5">
                     <p>mfk.</p>
