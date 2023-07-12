@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.3503ec33.css",
-    "main.js": "/static/js/main.83a41203.js",
+    "main.css": "/static/css/main.a24aa68c.css",
+    "main.js": "/static/js/main.93035d87.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/splashBG.mp4": "/static/media/splashBG.b1b21436418b2a478b70.mp4",
     "static/media/Laptop.jpeg": "/static/media/Laptop.b5c472efd5f756e8df1d.jpeg",
+    "static/media/UniWellbeing.jpg": "/static/media/UniWellbeing.a1c5037bfe7db94872be.jpg",
     "static/media/AFL.jpg": "/static/media/AFL.2b7d3d133404ac1bbad6.jpg",
+    "static/media/FTstill.jpg": "/static/media/FTstill.368215a89733ef420034.jpg",
     "static/media/Quotlefish.jpg": "/static/media/Quotlefish.08ac4bfd22cb715c4cea.jpg",
     "static/media/DunkinBisquids.jpg": "/static/media/DunkinBisquids.3f442b8c7e70bc8efa06.jpg",
+    "static/media/Anncom.jpg": "/static/media/Anncom.ca4605fdd0a13fdd7892.jpg",
     "static/media/Seamail.jpg": "/static/media/Seamail.1bcc60035ac0536f5cbd.jpg",
+    "static/media/Infinity.jpg": "/static/media/Infinity.2ffc239827dda1b18dc6.jpg",
     "index.html": "/index.html",
-    "main.3503ec33.css.map": "/static/css/main.3503ec33.css.map",
-    "main.83a41203.js.map": "/static/js/main.83a41203.js.map",
+    "main.a24aa68c.css.map": "/static/css/main.a24aa68c.css.map",
+    "main.93035d87.js.map": "/static/js/main.93035d87.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3503ec33.css",
-    "static/js/main.83a41203.js"
+    "static/css/main.a24aa68c.css",
+    "static/js/main.93035d87.js"
   ]
 }

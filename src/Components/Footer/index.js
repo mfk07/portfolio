@@ -8,7 +8,7 @@ const Footer = () => {
                     <a href="#">mfk.</a>
                 </div>
                 <div className="col-lg-6 col-7">
-                    <p>© maria fedorec-kyte 2022</p>
+                    <p>© maria fedorec-kyte 2023</p>
                 </div>
             </div>
         </div>

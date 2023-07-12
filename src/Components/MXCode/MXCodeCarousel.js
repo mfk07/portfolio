@@ -31,7 +31,8 @@ export default function MXCodeCarousel() {
                         <p className="fw-bold mb-3">{MXCodeProject.title} - {MXCodeProject.date}</p>
                         <p className="mb-3">{MXCodeProject.description}</p>
                         <p className="mb-3">{MXCodeProject.tech}</p>
-                        <a href={MXCodeProject.url} target="blank">Live site</a>
+                        {MXCodeProject.url != '' ?  <a href={MXCodeProject.url} target="blank">Live site</a> : <p>Link TBC</p>}
+                       
                       </div>
                       <div className="col-lg-8">
                       <img class="mxCarouselImages" src={MXCodeProject.images} alt="screenshot of project landing page"/>
