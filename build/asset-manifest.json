@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.a24aa68c.css",
-    "main.js": "/static/js/main.93035d87.js",
+    "main.js": "/static/js/main.ac5c7893.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/splashBG.mp4": "/static/media/splashBG.b1b21436418b2a478b70.mp4",
+    "static/media/FTstill.jpg": "/static/media/FTstill.861ec75ffb875d095d04.jpg",
+    "static/media/FSS.jpg": "/static/media/FSS.834719d9ca9ba82f63ad.jpg",
     "static/media/Laptop.jpeg": "/static/media/Laptop.b5c472efd5f756e8df1d.jpeg",
     "static/media/UniWellbeing.jpg": "/static/media/UniWellbeing.a1c5037bfe7db94872be.jpg",
     "static/media/AFL.jpg": "/static/media/AFL.2b7d3d133404ac1bbad6.jpg",
-    "static/media/FTstill.jpg": "/static/media/FTstill.368215a89733ef420034.jpg",
     "static/media/Quotlefish.jpg": "/static/media/Quotlefish.08ac4bfd22cb715c4cea.jpg",
     "static/media/DunkinBisquids.jpg": "/static/media/DunkinBisquids.3f442b8c7e70bc8efa06.jpg",
     "static/media/Anncom.jpg": "/static/media/Anncom.ca4605fdd0a13fdd7892.jpg",
@@ -15,11 +16,11 @@
     "static/media/Infinity.jpg": "/static/media/Infinity.2ffc239827dda1b18dc6.jpg",
     "index.html": "/index.html",
     "main.a24aa68c.css.map": "/static/css/main.a24aa68c.css.map",
-    "main.93035d87.js.map": "/static/js/main.93035d87.js.map",
+    "main.ac5c7893.js.map": "/static/js/main.ac5c7893.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a24aa68c.css",
-    "static/js/main.93035d87.js"
+    "static/js/main.ac5c7893.js"
   ]
 }
